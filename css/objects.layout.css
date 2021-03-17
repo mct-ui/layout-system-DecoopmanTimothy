@@ -1,10 +1,10 @@
+
 /*
     Objects: Layout
     ---
     The layout object provides us with a column-style layout system. This object
     contains the basic structural elements, but classes should be complemented
     with width utilities
-*/
 
 .o-layout {}
 
@@ -61,3 +61,5 @@
 .o-layout--align-content-space-around {}
 
 .o-layout--align-content-space-between {}
+
+
